@@ -11,7 +11,7 @@ public class LogicalOperatorPartTow {
         } else if (ch >= 'A' && ch <= 'Z') {
             System.out.println("This is a Capatile letter");
         } else {
-            System.out.println("This is not a number");
+            System.out.println("This is not a letter");
         }
 
     }
