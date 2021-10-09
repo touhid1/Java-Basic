@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ParrernOne {
+public class patternOne {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n;
